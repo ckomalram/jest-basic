@@ -1,0 +1,2 @@
+# except foo.html which is maintained by hand
+node_modules
